@@ -1,0 +1,21 @@
+# Django
+Django==3.2.4
+djangorestframework>=3.14.0
+
+# Linting
+flake8>=6.0.0
+black==23.1.0
+isort==5.12.0
+
+# env variables
+python-decouple>=3.7
+
+# documentation
+drf-spectacular>=0.26.2,<0.27
+
+#cors
+django-cors-headers==3.13.0
+
+
+#database
+psycopg2==2.9.5
